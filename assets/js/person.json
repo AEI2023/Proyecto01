@@ -1,0 +1,68 @@
+{
+    "personal": {
+        "genero": "female",
+        "nombre": {
+          "titulo": "RESUMEN PERSONAL",
+          "apeynom": "PEREZ JUANA"          
+        },
+        "ubicacion": {
+          "domicilio": {
+            "numero": 8929,
+            "calle": "San Martín"
+          },
+          "ciudad": "Chaco",
+          "provincia": "Formosa",
+          "pais": "Argentina",
+          "cp": "63104",
+          "coordenadas": {
+            "latitud": "-27.4425734",
+            "longitud": "-58.9913863"
+          },
+          "zonahoraria": {
+            "offset": "+9:30",
+            "descripcion": "Cordoba, Argentina"
+          }
+        },
+        "email": "hablame@juanaperez.com",
+        "web": "www.juanaperez.com.ar",        
+        "nacimiento": "1992-03-08",
+        "phone": "(+54) 790-0888",
+        "whatsapp": "(+54) 330-2385",
+        "picture": "assets/img/profile.jpg",
+        "nat": "ES"
+    },
+    "resumen":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?",
+    "educacion" : [
+      {"(2000 - 2004) Instituto de Informática": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"},
+      {"(2004 - 2006) Universidad de San Juan": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"}
+    ],
+    "experiencia" : [
+      {"(2006 - 2008) Apple": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"},
+      {"(2008 - 2010) IBM": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"},
+      {"(2011 - 2012) TESLA": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"}
+    ],
+    "tecnologias": "Javascript,PHP,Sass,Reactjs,Nextjs,Web Components,Laravel,MySQL",
+    "proyectos": [
+      {"Proyecto 1": [
+          {"url":"https://www.proyecto-uno.com.ar"},
+          {"resumen":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"}
+        ]
+      },
+      {"Proyecto 2": [
+          {"url":"https://www.proyecto-dos.com.ar"},
+          {"resumen":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"}
+        ]
+      },
+      {"Proyecto 3": [
+          {"url":"https://www.proyecto-tres.com.ar"},
+          {"resumen":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officiis mollitia excepturi vitae dolor, voluptatem vero magni est. Modi alias eligendi neque minus ab eos, unde voluptates! Consectetur, asperiores impedit. Facilis voluptatibus assumenda non sunt! Dolorum excepturi vel, facilis omnis sed possimus perspiciatis nostrum expedita eum laborum quas. Inventore sunt, maxime dolores amet ipsum repellat a ea commodi consequatur sint?"}
+        ]
+      }
+    ],
+    "info": {
+      "seed": "56d27f4a53bd5441",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
